@@ -3,3 +3,6 @@ A Jenkins pipeline for Continuous Integration and Deployment, integrating with G
 git add Jenkinsfile
 git commit -m "Added Jenkinsfile with CI/CD pipeline stages"
 git push origin main
+git add .
+git commit -m "Made a small change to trigger the pipeline"
+git push origin main
